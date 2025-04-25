@@ -52,7 +52,7 @@ VITE_API_URL=http://localhost:8000
 - `npm run dev` - Start development server
 
 ### Project Structure
-
+```
 ├── src/
 │ ├── components/ # Reusable components
 │ ├── pages/ # Page components
@@ -61,3 +61,4 @@ VITE_API_URL=http://localhost:8000
 │ └── App.tsx # Main application component
 ├── public/ # Public assets
 └── index.html # HTML template
+```
